@@ -1,5 +1,5 @@
 a.out:
-	gcc OAaprender.c
+	gcc Aaprender.c
 
 clean:
 	rm Aaprender
