@@ -2,11 +2,11 @@
 Este exercício é escrito em C, será testado com o make e um script bash.
 
 ### O Exercício
-Escreva um programa (OlaMundo.c) em C para imprimir no terminal o texto “Olá Mundo!”. 
+Escreva um programa em C (Aaprender.c) para imprimir no terminal o texto “Estou a aprender C.”. 
 
 ### Saída Esperada:
    
-Ola Mundo!
+Estou a aprender C.
 
 
 ### Notas
