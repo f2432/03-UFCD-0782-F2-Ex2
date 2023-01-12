@@ -2,7 +2,7 @@ echo "A executar os testes ..."
 echo
 
 output=$(./a.out)
-expected_output="Olá Mundo!"
+expected_output="Estou a aprender C."
 
 if [ $? -eq 0 ] ; then
   echo "Aprovado: o programa terminou com retorno zero"
